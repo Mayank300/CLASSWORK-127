@@ -16,7 +16,7 @@
 #### To install the  Virtual Environment
 Inside the root node
 ```bash
-  virtualenv -p python3 
+  virtualenv -p python3 env
 ```
 
 To activate Virtual Environment
