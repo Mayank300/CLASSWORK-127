@@ -13,6 +13,12 @@
 
 ### To run the code, run the following command
 
+#### To install the  Virtual Environment
+Inside the root node
+```bash
+  virtualenv -p python3 
+```
+
 To activate Virtual Environment
 
 ##### inside the root node
